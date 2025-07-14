@@ -1,11 +1,13 @@
 # BEN_LF-rTMS
 
-##Publication
+
+## Publication
+
 
 The research is published in Cerebral Cortex (Song et al. 2025,https://doi.org/10.1093/cercor/bhaf171)!
 
 
-##Finds
+## Finds
 
 1. We used publicly available data and found that low-frequency rTMS（LF-rTMS) over the left dorsolateral prefrontal cortex (DLPFC) reduces brain entropy (BEN) in the medial orbito-frontal cortex and subgenial anterior cingulate cortex (MOFC/sgACC). This finding replicates our previous 2017 result showing that high-frequency rTMS (HF-rTMS) increases brain entropy in the MOFC/sgACC (Song, Chang et al. 2019).
 
@@ -18,8 +20,7 @@ The research is published in Cerebral Cortex (Song et al. 2025,https://doi.org/1
 
 
 
-##Data availability
-
+## Data availability
 
 The publicly available data was obtained from OpenNeuro ds001927 (https://openneuro.org/datasets/ds001927/versions/2.1.0).
 
@@ -27,8 +28,7 @@ BEN maps and statistical results can be accessed at OSF (https://osf.io/wj89x/).
 
 
 
-
-##References:
+## References:
 
 
 Song, D., Deng, X., Chang, D., Wang, Z. (2025). Altered resting-state brain entropy by repetitive transcranial magnetic stimulation across the human cortex, Cerebral Cortex, 35, 7. https://doi.org/10.1093/cercor/bhaf171
