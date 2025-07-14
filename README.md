@@ -16,7 +16,7 @@ The research is published in Cerebral Cortex (Song et al. 2025,https://doi.org/1
 3. We also found that LF-rTMS over the left DLPFC increases BEN in the putamen, while our recent study demonstrated that subthreshold iTBS reduces BEN in the same region (Liu, Song et al. 2025) and notably, a 10-day course of HF-rTMS targeting the left DLPFC in chronic smokers was found to induce significant reductions in striatal BEN (Chang, Zhang et al. 2018).
 
 
-4. What's More, we found that different BEN changes occurred when stimulating the temporoparietal junction and visual cortex. LF-rTMS at the L-TPJ increased BEN in the right TPJ, while LF-rTMS at the L-OCC decreased BEN in the posterior cingulate cortex. 
+4. What's more, we found that different BEN changes occurred when stimulating the temporoparietal junction and visual cortex. LF-rTMS at the L-TPJ increased BEN in the right TPJ, while LF-rTMS at the L-OCC decreased BEN in the posterior cingulate cortex. 
 
 
 
