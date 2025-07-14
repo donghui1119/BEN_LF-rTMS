@@ -22,7 +22,7 @@ The research is published in Cerebral Cortex (Song et al. 2025,https://doi.org/1
 
 ## Data availability
 
-The publicly available data was obtained from OpenNeuro ds001927 (https://openneuro.org/datasets/ds001927/versions/2.1.0).
+The publicly available data (Castrillon et al. 2025) was obtained from OpenNeuro ds001927 (https://openneuro.org/datasets/ds001927/versions/2.1.0). 
 
 BEN maps and statistical results can be accessed at OSF (https://osf.io/wj89x/).
 
@@ -36,6 +36,8 @@ Song, D., Deng, X., Chang, D., Wang, Z. (2025). Altered resting-state brain entr
 Liu, P., Song, D., Deng, X., Shang, Y., Ge, Q., Wang, Z., and Zhang, H (2025). "The effects of intermittent theta burst stimulation (iTBS) on resting-state brain entropy (BEN)." Neurotherapeutics: e00556.
 
 Liu, X., Song, D., Yin, Y., Xie, C., Zhang, H., Zhang, H., ... & Yuan, Y. (2020). Altered Brain Entropy as a predictor of antidepressant response in major depressive disorder. Journal of Affective Disorders, 260, 716-721.
+
+Castrillon, G., Sollmann, N., Kurcyus, K., Razi, A., Krieg, S. M., & Riedl, V. (2020). The physiological effects of noninvasive brain stimulation fundamentally differ across the human cortex. Science Advances, 6(5), eaay2739.
 
 Song, D., Chang, D., Zhang, J., Peng, W., Shang, Y., Gao, X., & Wang, Z. (2019). Reduced brain entropy by repetitive transcranial magnetic stimulation on the left dorsolateral prefrontal cortex in healthy young adults. Brain imaging and behavior, 13(2), 421-429.
 
